@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MessiKart</string>
+    <string name="pozisyonBaslik">Pozisyon</string>
+    <string name="pozisyonYazi">Atak-Sağ Kanat</string>
+    <string name="takimBaslik">Takım</string>
+    <string name="takimYazi">Paris SG</string>
+    <string name="numaraBaslik">Numara</string>
+    <string name="numaraYazi">30</string>
+    <string name="ulkeBaslik">Ülkesi</string>
+    <string name="ulkeYazi">Arjantin</string>
+    <string name="dogumTarihiBaslik">Doğum Tarihi</string>
+    <string name="dogumTarihiYazi">24 Haziran 1987</string>
+    <string name="boyBaslik">Boyu</string>
+    <string name="boyYazi">1,70 m</string>
+    <string name="tamAdiBaslik">Tam Adı</string>
+    <string name="tamAdiYazi">Lionel Andrés Messi Cuccitini</string>
+    <string name="transferUcretiBaslik">Güncel Market Değeri</string>
+    <string name="transferUcretiYazi">€50.00m</string>
+
+</resources>
